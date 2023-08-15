@@ -33,3 +33,24 @@ git add archivo_inicial.txt paso_git_mouredev.txt
 git checkout <archivo_select> o agregar un punto "."
 
     >>quiero devolverme a la instantanea mas reciente
+
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+
+git log --graph --decorate --all --oneline
+    * 45320e5 (HEAD -> main) olvide agregar o agregar un punto . en el archivo pricipal
+    * 75ebc40 preparado para hacer puebra checkout se adiciona error a archivo principal
+    * ffdcfd9 este es un segundo comentario
+    * 58059a7 git (init|config --global|touch|branch -m|status|add)
+
+>> parametros que me facilita los comandos
+
+git config --global alias.tree "log --graph --decorate --all --oneline"
+
+    >>luego escribo  "git tree" para efectuarlo, esto tambien se 
+        refleja en el .gitconfig
+
+touch .gitignore
+
+    >> se agrega y se comenta
+
