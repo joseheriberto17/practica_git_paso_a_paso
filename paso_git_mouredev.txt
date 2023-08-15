@@ -60,4 +60,36 @@ git diff
 
     >>muestra diferencia entre archivo actual y sin cambios
 
+git checkout 58059a7 
 
+    >> me muevo al primer cambio
+
+git checkout main 
+
+    >> me devuelvo
+
+git reset -- hard 58059a7
+
+    >> mi main final de git queda en el primer cambio
+        para devolverme de busco en relog el id de la main anterior
+
+git relog
+
+    >historial completo de todos los cambios en git
+
+git tag <nombre>
+
+    >> agrega una etiqueta a uno de los cambios 
+
+git tags
+
+    >> muestra el listado de tags en el repositorio 
+
+git checkout tags/<name_tag>
+
+    >> apunto a cambio que tiene ese tag
+
+git rebase (no se recomienda)
+
+    >>lo que hace es elminiar un commit en alguna linea y ponerlo al final
+    
