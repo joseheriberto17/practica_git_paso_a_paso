@@ -30,6 +30,6 @@ git add archivo_inicial.txt paso_git_mouredev.txt
 
     >> segundo comentario
 
-git checkout <archivo_select>
+git checkout <archivo_select> o agregar un punto "."
 
     >>quiero devolverme a la instantanea mas reciente
