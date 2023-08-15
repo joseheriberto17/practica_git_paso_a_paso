@@ -54,3 +54,10 @@ touch .gitignore
 
     >> se agrega y se comenta
 
+-------------------------------------------------------------------------
+
+git diff 
+
+    >>muestra diferencia entre archivo actual y sin cambios
+
+
