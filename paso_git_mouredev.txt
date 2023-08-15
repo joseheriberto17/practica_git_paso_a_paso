@@ -24,6 +24,12 @@ git add archivo_inicial.txt paso_git_mouredev.txt
     >> realiza seguimiento para  poder comentar y agregar los cambios
 
 ---------------------------------------------------------------------------
->> primer comentario
+    >> primer comentario
 
 --------------------------------------------------------------------------
+
+    >> segundo comentario
+
+git checkout <archivo_select>
+
+    >>quiero devolverme a la instantanea mas reciente
