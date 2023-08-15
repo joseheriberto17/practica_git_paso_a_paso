@@ -1,0 +1,22 @@
+git init
+
+    >> crea una carpeta .git , para iniciar git
+
+
+git config --global user.name "The_heri24"
+git config --global user.mail "jose.heriberto@hotmail.es"
+
+    >> en la raiz aparece .gitconfig con estos mismo datos
+
+touch archivo_inicial.txt
+
+    >> crea un archico con nombre especifico
+
+git branch -m main 
+    >> cambia el nombre de la rama actual ???
+
+git status 
+
+    >> revisa los cambios que estan pendientes.
+
+git add 
