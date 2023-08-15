@@ -6,7 +6,7 @@ git init
 git config --global user.name "The_heri24"
 git config --global user.mail "jose.heriberto@hotmail.es"
 
-    >> en la raiz aparece .gitconfig con estos mismo datos
+    >> en la raiz aparece .gitconfig con estos mismo datos (solo en pc nuevos)
 
 touch archivo_inicial.txt
 
@@ -19,4 +19,11 @@ git status
 
     >> revisa los cambios que estan pendientes.
 
-git add 
+git add archivo_inicial.txt paso_git_mouredev.txt
+
+    >> realiza seguimiento para  poder comentar y agregar los cambios
+
+---------------------------------------------------------------------------
+>> primer comentario
+
+--------------------------------------------------------------------------
