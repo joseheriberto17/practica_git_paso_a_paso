@@ -104,3 +104,7 @@ CAMBIOS AL RAMA main
 git merge main
 
     >>se combino los datos de main y los traje a login 
+
+-------------------------------------------------------------------
+
+por ultimo se uso git branch -d login , para borrarlo
