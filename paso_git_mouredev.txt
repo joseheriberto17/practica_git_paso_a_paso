@@ -91,10 +91,16 @@ git checkout tags/<name_tag>
 
 git rebase (no se recomienda)
 
-    >> lo que hace es elminiar un commit en alguna linea y ponerlo al final
+    >> lo que hace es eliminar un commit en alguna linea y ponerlo al final
     
 git switch <name_branch>
 
     >> cambios entre branch
 
 CAMBIO AL RAMA LOGIN
+
+CAMBIOS AL RAMA main
+
+git merge main
+
+    >>se combino los datos de main y los traje a login 
