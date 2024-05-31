@@ -4,7 +4,7 @@ git init
 
 
 git config --global user.name "The_heri24"
-git config --global user.mail "jose.heriberto@hotmail.es"
+git config --global user.email "jose.heriberto@hotmail.es"
 
     >> en la raiz aparece .gitconfig con estos mismo datos (solo en pc nuevos)
 
